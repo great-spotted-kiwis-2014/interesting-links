@@ -31,6 +31,9 @@ These blogs might be a little over your head for now but there is still great st
 - [Devlicio.us](http://devlicio.us/blogs/)
 - [Sandi Metz](http://www.sandimetz.com/) (@Sam says: She wrote the amazing book POODR)
 - [Sarah Mei](http://www.sarahmei.com/blog/)
+- [Avdi Grimm](http://devblog.avdi.org/)
+- [Code Climate](http://blog.codeclimate.com/)
+- [Thoughtbot](http://robots.thoughtbot.com/)
 
 Who to follow on the twitters
 -----------------------------
