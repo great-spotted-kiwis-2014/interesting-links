@@ -17,21 +17,23 @@ These are some blogs that DBC students have written. They will give you good ins
 - [Jason's Blog](http://jasonlo-bears.tumblr.com/)
 
 
-Blogs of notably excellent programmers and technologists (mainly in the .NET space)
------------------------------------------------------------------------------------
+Professional Developer Blogs
+----------------------------
+These blogs might be a little over your head for now but there is still great stuff here to learn from as you go.
 
-- [The Morning Brew](http://blog.cwa.me.uk/) (Content aggregator. HIGHLY reccomended)
+- [The Morning Brew](http://blog.cwa.me.uk/) (@Ben says: Content aggregator. HIGHLY reccomended)
 - [Erik Dietrich](http://www.daedtech.com/)
 - [Martin Fowler](http://martinfowler.com/)
-- [Uncle Bob](https://sites.google.com/site/unclebobconsultingllc/) (Robert C Martin)
+- [Uncle Bob](https://sites.google.com/site/unclebobconsultingllc/) (@Ben says: Robert C Martin)
 - [Michael Feathers](http://www.goodreads.com/author/show/25201.Michael_C_Feathers/blog)
 - [Scott Guthrie](http://weblogs.asp.net/scottgu/)
 - [Codebetter](http://codebetter.com/)
 - [Devlicio.us](http://devlicio.us/blogs/)
-
-
-- [Sandi Metz](http://www.sandimetz.com/)
+- [Sandi Metz](http://www.sandimetz.com/) (@Sam says: She wrote the amazing book POODR)
 - [Sarah Mei](http://www.sarahmei.com/blog/)
+- [Avdi Grimm](http://devblog.avdi.org/)
+- [Code Climate](http://blog.codeclimate.com/)
+- [Thoughtbot](http://robots.thoughtbot.com/)
 
 Who to follow on the twitters
 -----------------------------
