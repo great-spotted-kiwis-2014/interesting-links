@@ -36,6 +36,9 @@ Blogs of notably excellent programmers and technologists (mainly in the .NET spa
 Who to follow on the twitters
 -----------------------------
 
+Pilfer (@ootoovak's Following List)[https://twitter.com/ootoovak/following] for many great programmers. I will try curate a list later on.
+Also, (Rails Girls Wellington has some curated lists)[https://twitter.com/RailsGirlsWgtn/lists] of people to follow on Twitter.
+
 - Jeff Atwood (@codinghorror)
 - Michael Feathers (@mfeathers)
 - Martin Fowler (@martinfowler)
