@@ -15,3 +15,39 @@ These are some blogs that DBC students have written. They will give you good ins
 - [Alexandra Swart](http://keepcalmcodeon.tumblr.com/)
 - [Jackie Johnston](http://www.jackiejohnston.us/)
 - [Jason's Blog](http://jasonlo-bears.tumblr.com/)
+
+
+Blogs of notably excellent programmers and technologists (mainly in the .NET space)
+-----------------------------------------------------------------------------------
+
+- [The Morning Brew](http://blog.cwa.me.uk/) (Content aggregator. HIGHLY reccomended)
+- [Erik Dietrich](http://www.daedtech.com/)
+- [Martin Fowler](http://martinfowler.com/)
+- [Uncle Bob](https://sites.google.com/site/unclebobconsultingllc/) (Robert C Martin)
+- [Michael Feathers](http://www.goodreads.com/author/show/25201.Michael_C_Feathers/blog)
+- [Scott Guthrie](http://weblogs.asp.net/scottgu/)
+- [Codebetter](http://codebetter.com/)
+- [Devlicio.us](http://devlicio.us/blogs/)
+
+
+- [Sandi Metz](http://www.sandimetz.com/)
+- [Sarah Mei](http://www.sarahmei.com/blog/)
+
+Who to follow on the twitters
+-----------------------------
+
+- Jeff Atwood (@codinghorror)
+- Michael Feathers (@mfeathers)
+- Martin Fowler (@martinfowler)
+- Uncle Bob (@unclebobmartin)
+- Kent Beck (@kentbeck)
+- Jeremy Miller (@jeremydmiller)
+- Phil Haack (@haacked)
+
+
+####Wellingtonians!
+- Ben Biddington (Xero) (@benbiddington)
+- Simon Young (Trademe head of dev) (@tarkwyn)
+- Mindscape (Make .NET developer tools up on the terrace) (@mindscapehq)
+- Ivan Towlson (General genius, works for GreenButton) (@ppog_penguin)
+- Tokes (Xero head of product) (@andrewtokely)
