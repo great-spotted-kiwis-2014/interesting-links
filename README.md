@@ -38,8 +38,8 @@ These blogs might be a little over your head for now but there is still great st
 Who to follow on the twitters
 -----------------------------
 
-Pilfer (@ootoovak's Following List)[https://twitter.com/ootoovak/following] for many great programmers. I will try curate a list later on.
-Also, (Rails Girls Wellington has some curated lists)[https://twitter.com/RailsGirlsWgtn/lists] of people to follow on Twitter.
+Pilfer [@ootoovak's Following List](https://twitter.com/ootoovak/following) for many great programmers. I will try curate a list later on.
+Also, [Rails Girls Wellington has some curated lists](https://twitter.com/RailsGirlsWgtn/lists) of people to follow on Twitter.
 
 - Jeff Atwood (@codinghorror)
 - Michael Feathers (@mfeathers)
