@@ -56,3 +56,13 @@ Also, (Rails Girls Wellington has some curated lists)[https://twitter.com/RailsG
 - Mindscape (Make .NET developer tools up on the terrace) (@mindscapehq)
 - Ivan Towlson (General genius, works for GreenButton) (@ppog_penguin)
 - Tokes (Xero head of product) (@andrewtokely)
+
+
+Ruby Specific Things
+--------------------
+
+### Pry
+* [Pry Homepage](http://pryrepl.org/)
+* [Pry Readme](https://github.com/pry/pry/blob/master/README.md)
+* [Pry ByeBug Readme](https://github.com/deivid-rodriguez/pry-byebug/blob/master/README.md)
+* [Example code from lecture](https://gist.github.com/ootoovak/0d0cabf916befc162de6)
