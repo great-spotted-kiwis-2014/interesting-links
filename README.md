@@ -8,7 +8,7 @@ Please, submit the changes as Pull Requests and other Boots can review and merge
 Dev Academy Student Blogs
 --------------------------
 
- - [Nicks Blog](http://widdersh.in)
+ - [Nick's Blog](http://widdersh.in)
 
 Interesting Coding Websites
 --------------------------
