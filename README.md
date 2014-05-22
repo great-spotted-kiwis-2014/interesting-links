@@ -5,6 +5,11 @@ Put any interesting of helpful links you find here. Try give some context as to 
 
 Please, submit the changes as Pull Requests and other Boots can review and merge the changes in.
 
+Dev Academy Student Blogs
+--------------------------
+
+ - [Nicks Blog](http://widdersh.in)
+
 Interesting Coding Websites
 --------------------------
 
