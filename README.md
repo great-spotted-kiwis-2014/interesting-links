@@ -14,6 +14,7 @@ Interesting Coding Websites
 --------------------------
 
 - [CodeCombat](https://codecombat.com/) Learn to Code JavaScript by Playing a Game (Both singleplayer and versus other players)
+- [Exercism.io](http://exercism.io/) Crowd-sourced mentorship. Public Prototype.
 
 Dev Bootcamp Student Blogs
 --------------------------
