@@ -77,3 +77,8 @@ Ruby Specific Things
 * [Pry Readme](https://github.com/pry/pry/blob/master/README.md)
 * [Pry ByeBug Readme](https://github.com/deivid-rodriguez/pry-byebug/blob/master/README.md)
 * [Example code from lecture](https://gist.github.com/ootoovak/0d0cabf916befc162de6)
+
+
+### Blocks, Procs, and Lambdas
+*[Ruby on Rails Study Guide: Blocks, Procs, and Lambdas](http://code.tutsplus.com/tutorials/ruby-on-rails-study-guide-blocks-procs-and-lambdas--net-29811)
+*[Ruby Explained: Blocks, Procs, and Lambdas, aka "Closures"](http://www.eriktrautman.com/posts/ruby-explained-blocks-procs-and-lambdas-aka-closures)
