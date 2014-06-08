@@ -69,6 +69,10 @@ Also, [Rails Girls Wellington has some curated lists](https://twitter.com/RailsG
 - Tokes (Xero head of product) (@andrewtokely)
 
 
+Javascript Specific Things
+--------------------------
+* [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
+
 Ruby Specific Things
 --------------------
 
