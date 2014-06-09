@@ -72,6 +72,7 @@ Also, [Rails Girls Wellington has some curated lists](https://twitter.com/RailsG
 Javascript Specific Things
 --------------------------
 * [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
+* [Classical inheritance with Object.create](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create#Classical_inheritance_with_Object.create)
 
 Ruby Specific Things
 --------------------
