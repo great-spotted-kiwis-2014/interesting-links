@@ -74,6 +74,7 @@ Javascript Specific Things
 * [AirBnB Javascript Style Guide](https://github.com/airbnb/javascript)
 * [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
 * [Classical inheritance with Object.create](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create#Classical_inheritance_with_Object.create)
+* [Coding in the Craft Room: AJAX](http://erinjoansnyder.com/tag/ajax/)
 
 Ruby Specific Things
 --------------------
