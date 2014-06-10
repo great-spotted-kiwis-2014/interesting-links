@@ -75,6 +75,7 @@ Javascript Specific Things
 * [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
 * [Classical inheritance with Object.create](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create#Classical_inheritance_with_Object.create)
 * [Coding in the Craft Room: AJAX](http://erinjoansnyder.com/tag/ajax/)
+* [AJAX example](https://github.com/great-spotted-kiwis-2014/ajax-example)
 
 Ruby Specific Things
 --------------------
@@ -89,8 +90,3 @@ Ruby Specific Things
 ### Blocks, Procs, and Lambdas
 - [Ruby on Rails Study Guide: Blocks, Procs, and Lambdas](http://code.tutsplus.com/tutorials/ruby-on-rails-study-guide-blocks-procs-and-lambdas--net-29811)
 - [Ruby Explained: Blocks, Procs, and Lambdas, aka "Closures"](http://www.eriktrautman.com/posts/ruby-explained-blocks-procs-and-lambdas-aka-closures)
-
-
-Lecture Examples
-================
-- [AJAX example](https://github.com/great-spotted-kiwis-2014/ajax-example)
