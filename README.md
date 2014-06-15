@@ -76,6 +76,7 @@ Javascript Specific Things
 * [Classical inheritance with Object.create](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create#Classical_inheritance_with_Object.create)
 * [Coding in the Craft Room: AJAX](http://erinjoansnyder.com/tag/ajax/)
 * [AJAX example](https://github.com/great-spotted-kiwis-2014/ajax-example)
+* [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 Ruby Specific Things
 --------------------
