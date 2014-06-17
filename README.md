@@ -8,7 +8,8 @@ Please, submit the changes as Pull Requests and other Boots can review and merge
 Dev Academy Student Blogs
 --------------------------
 
-- [Nick's Blog](http://widdersh.in)
+- [Widdershin's Blog](http://widdersh.in)
+- [MVC & Me](http://kendallflutey.svbtle.com/mvc-me)
 
 Interesting Coding Websites
 --------------------------
