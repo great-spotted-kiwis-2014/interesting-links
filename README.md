@@ -8,7 +8,7 @@ Please, submit the changes as Pull Requests and other Boots can review and merge
 Dev Academy Student Blogs
 --------------------------
 
- - [Nick's Blog](http://widdersh.in)
+- [Nick's Blog](http://widdersh.in)
 
 Interesting Coding Websites
 --------------------------
@@ -71,21 +71,21 @@ Also, [Rails Girls Wellington has some curated lists](https://twitter.com/RailsG
 
 Javascript Specific Things
 --------------------------
-* [AirBnB Javascript Style Guide](https://github.com/airbnb/javascript)
-* [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
-* [Classical inheritance with Object.create](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create#Classical_inheritance_with_Object.create)
-* [Coding in the Craft Room: AJAX](http://erinjoansnyder.com/tag/ajax/)
-* [AJAX example](https://github.com/great-spotted-kiwis-2014/ajax-example)
-* [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [AirBnB Javascript Style Guide](https://github.com/airbnb/javascript)
+- [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
+- [Classical inheritance with Object.create](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create#Classical_inheritance_with_Object.create)
+- [Coding in the Craft Room: AJAX](http://erinjoansnyder.com/tag/ajax/)
+- [AJAX example](https://github.com/great-spotted-kiwis-2014/ajax-example)
+- [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 Ruby Specific Things
 --------------------
 
 ### Pry
-* [Pry Homepage](http://pryrepl.org/)
-* [Pry Readme](https://github.com/pry/pry/blob/master/README.md)
-* [Pry ByeBug Readme](https://github.com/deivid-rodriguez/pry-byebug/blob/master/README.md)
-* [Example code from lecture](https://gist.github.com/ootoovak/0d0cabf916befc162de6)
+- [Pry Homepage](http://pryrepl.org/)
+- [Pry Readme](https://github.com/pry/pry/blob/master/README.md)
+- [Pry ByeBug Readme](https://github.com/deivid-rodriguez/pry-byebug/blob/master/README.md)
+- [Example code from lecture](https://gist.github.com/ootoovak/0d0cabf916befc162de6)
 
 
 ### Blocks, Procs, and Lambdas
@@ -94,4 +94,4 @@ Ruby Specific Things
 
 CSS Specific Things
 -------------------
--[Introduction to OOCSS](http://www.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss/)
+- [Introduction to OOCSS](http://www.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss/)
