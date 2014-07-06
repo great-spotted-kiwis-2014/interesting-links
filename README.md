@@ -78,6 +78,7 @@ Javascript Specific Things
 - [Coding in the Craft Room: AJAX](http://erinjoansnyder.com/tag/ajax/)
 - [AJAX example](https://github.com/great-spotted-kiwis-2014/ajax-example)
 - [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [7 Patterns To Refactor Javascript](http://journal.crushlovely.com/post/88286828068/7-patterns-to-refactor-javascript-applications-value)
 
 Ruby Specific Things
 --------------------
@@ -92,6 +93,9 @@ Ruby Specific Things
 ### Blocks, Procs, and Lambdas
 - [Ruby on Rails Study Guide: Blocks, Procs, and Lambdas](http://code.tutsplus.com/tutorials/ruby-on-rails-study-guide-blocks-procs-and-lambdas--net-29811)
 - [Ruby Explained: Blocks, Procs, and Lambdas, aka "Closures"](http://www.eriktrautman.com/posts/ruby-explained-blocks-procs-and-lambdas-aka-closures)
+
+### TDD
+- [Is TDD Dead?](http://martinfowler.com/articles/is-tdd-dead/)
 
 CSS Specific Things
 -------------------
