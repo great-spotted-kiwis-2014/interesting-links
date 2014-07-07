@@ -79,6 +79,7 @@ Javascript Specific Things
 - [AJAX example](https://github.com/great-spotted-kiwis-2014/ajax-example)
 - [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [7 Patterns To Refactor Javascript](http://journal.crushlovely.com/post/88286828068/7-patterns-to-refactor-javascript-applications-value)
+- - [Creating Multiple JavaScript Objects when using the Revealing Module Pattern](http://weblogs.asp.net/dwahlin/creating-multiple-javascript-objects-when-using-the-revealing-module-pattern)
 
 Ruby Specific Things
 --------------------
